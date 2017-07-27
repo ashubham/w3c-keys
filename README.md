@@ -1,6 +1,7 @@
 # w3c-keys
 
 keyboardEvent.key compatible key codes with Typescript Definitions.
+
 Read https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/key
 
 ## Usage
