@@ -1,0 +1,32 @@
+{
+  "name": "w3c-keys",
+  "version": "0.3.0",
+  "description": "keyboardEvent.key compatible key codes with Typescript Definitions. Edit",
+  "main": "dist/index.js",
+  "types": "dist/declarations/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashubham/w3c-keys.git"
+  },
+  "keywords": [
+    "keyboardEvent",
+    "key",
+    "typescript",
+    "keycode",
+    "key",
+    "code",
+    "es6"
+  ],
+  "author": "ashubham@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashubham/w3c-keys/issues"
+  },
+  "homepage": "https://github.com/ashubham/w3c-keys#readme",
+  "devDependencies": {
+    "typescript": "^2.4.2"
+  }
+}
