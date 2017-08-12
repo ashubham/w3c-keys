@@ -9,14 +9,13 @@ Read https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/key
 ```typescript
 import { Key } from 'w3c-keys';
 
-// Used to dispatch Events.
-
+// To dispatch Events.
 let evt = new KeyboardEvent('keydown', {
     key: Key.Space
 });
 document.body.dispatchEvent(evt);
 
-// Used to check event keys.
+// To check event keys.
 document.body.on('keydown', (e) => {
     if(e.key === Key.Backspace) {
         // Do some shiz...

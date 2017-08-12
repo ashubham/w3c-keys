@@ -1,3 +1,4 @@
+
 export enum Key {
     Backspace = 'Backspace',
     Tab = 'Tab',
@@ -16,6 +17,10 @@ export enum Key {
     ArrowUp = 'ArrowUp',
     ArrowRight = 'ArrowRight',
     ArrowDown = 'ArrowDown',
+    Left = 'Left',
+    Up = 'Up',
+    Right = 'Right',
+    Down = 'Down',
     Insert = 'Insert',
     Delete = 'Delete',
     Zero = '0',

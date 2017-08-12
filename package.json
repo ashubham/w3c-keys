@@ -1,6 +1,6 @@
 {
   "name": "w3c-keys",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "keyboardEvent.key compatible key codes with Typescript Definitions. Edit",
   "main": "dist/index.js",
   "types": "dist/declarations/index.d.ts",
