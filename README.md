@@ -1,8 +1,7 @@
 # w3c-keys
-<img src="https://github.com/ashubham/w3c-keys/raw/master/assets/keys.jpg" align="right" alt="w3c-keys" />
 [![Build Status](https://travis-ci.org/ashubham/w3c-keys.svg?branch=master)](https://travis-ci.org/ashubham/w3c-keys)
 [![npm version](https://badge.fury.io/js/w3c-keys.svg)](https://badge.fury.io/js/w3c-keys)
-
+<img src="https://github.com/ashubham/w3c-keys/raw/master/assets/keys.jpg" align="right" style="width:250px;" alt="w3c-keys" />
 keyboardEvent.key compatible key codes with Typescript Definitions.
 
 Read https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/key
