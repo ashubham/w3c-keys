@@ -114,7 +114,7 @@ export enum Key {
     Multiply = '*',
     Add = '+',
     Subtract = '-',
-    DecimalPoint = '.',
+    DecimalPoint = 'Decimal',
     Divide = '/',
     F1 = 'F1',
     F2 = 'F2',
