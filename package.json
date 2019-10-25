@@ -1,11 +1,14 @@
 {
   "name": "w3c-keys",
-  "version": "0.3.6",
+  "version": "1.0.1",
   "description": "keyboardEvent.key compatible key codes with Typescript Definitions. Edit",
-  "main": "dist/index.js",
-  "types": "dist/declarations/index.d.ts",
+  "main": "dist/es5/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "build:es5": "tsc -p . --module commonjs --outDir dist/es5 --target es5",
+    "prepublish": "npm run build ; npm run build:es5"
   },
   "repository": {
     "type": "git",
@@ -27,6 +30,6 @@
   },
   "homepage": "https://github.com/ashubham/w3c-keys#readme",
   "devDependencies": {
-    "typescript": "^2.4.2"
+    "typescript": "^3.6.4"
   }
 }

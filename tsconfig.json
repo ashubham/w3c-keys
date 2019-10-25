@@ -1,10 +1,11 @@
 {
     "compilerOptions": {
         "declaration": true,
-        "declarationDir": "dist/declarations",
-        "module": "commonjs",
-        "target": "es5",
-        "outDir": "dist"
+        "declarationDir": "dist",
+        "module": "esnext",
+        "target": "es2018",
+        "outDir": "dist",
+        "sourceMap": true 
     },
     "files": [
         "index.ts"

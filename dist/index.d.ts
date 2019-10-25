@@ -42,7 +42,7 @@ export declare enum Key {
     Ampersand = "&",
     Eight = "8",
     Star = "*",
-    Asterik = "*",
+    Asterisk = "*",
     Nine = "9",
     OpenParen = "(",
     a = "a",
@@ -114,6 +114,7 @@ export declare enum Key {
     Add = "+",
     Subtract = "-",
     DecimalPoint = ".",
+    MSDecimalPoint = "Decimal",
     Divide = "/",
     F1 = "F1",
     F2 = "F2",
@@ -141,5 +142,5 @@ export declare enum Key {
     GraveAccent = "`",
     OpenBracket = "[",
     ClosedBracket = "]",
-    Quote = "'",
+    Quote = "'"
 }

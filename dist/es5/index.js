@@ -1,4 +1,6 @@
-export var Key;
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var Key;
 (function (Key) {
     Key["Backspace"] = "Backspace";
     Key["Tab"] = "Tab";
@@ -144,5 +146,5 @@ export var Key;
     Key["OpenBracket"] = "[";
     Key["ClosedBracket"] = "]";
     Key["Quote"] = "'";
-})(Key || (Key = {}));
+})(Key = exports.Key || (exports.Key = {}));
 //# sourceMappingURL=index.js.map
