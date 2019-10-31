@@ -29,7 +29,7 @@ export declare enum Key {
     Two = "2",
     AtSign = "@",
     Three = "3",
-    PoundSign = "#",
+    PoundSign = "\u00A3",
     Hash = "#",
     Four = "4",
     DollarSign = "$",

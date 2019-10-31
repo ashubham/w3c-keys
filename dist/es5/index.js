@@ -32,7 +32,7 @@ var Key;
     Key["Two"] = "2";
     Key["AtSign"] = "@";
     Key["Three"] = "3";
-    Key["PoundSign"] = "#";
+    Key["PoundSign"] = "\u00A3";
     Key["Hash"] = "#";
     Key["Four"] = "4";
     Key["DollarSign"] = "$";
