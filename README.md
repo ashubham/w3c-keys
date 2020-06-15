@@ -11,6 +11,8 @@ Read https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/key
 
 Compatible with IE/Edge/Safari Key idiosyncrasies.
 
+Super Lightweight: ~900 Bytes Gzipped (Potentially smaller when combined gzipped with a bigger app)
+
 ## Usage
 
 ```typescript
