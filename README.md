@@ -35,4 +35,4 @@ document.body.on('keydown', (e) => {
 ## Why not use evt.which keyCodes ?
 
 - `evt.which` keycodes are a deprecated standard.
-- Ability to create synthetic key events which is not possible with `evt.which`.
+- Ability to create synthetic key events is not possible with `evt.which`.
