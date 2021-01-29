@@ -8,6 +8,7 @@ export var Key;
     Key["Alt"] = "Alt";
     Key["CapsLock"] = "CapsLock";
     Key["Escape"] = "Escape";
+    Key["Esc"] = "Esc";
     Key["Space"] = " ";
     Key["PageUp"] = "PageUp";
     Key["PageDown"] = "PageDown";
