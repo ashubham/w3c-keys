@@ -7,6 +7,7 @@ export declare enum Key {
     Alt = "Alt",
     CapsLock = "CapsLock",
     Escape = "Escape",
+    Esc = "Esc",
     Space = " ",
     PageUp = "PageUp",
     PageDown = "PageDown",
